@@ -11,7 +11,6 @@ class Prakash
     System.out.println("First occurrence of char 's'" + 
                        " is found at : " + firstIndex); 
   
-    // Returns index of last occurrence specified character. 
     int lastIndex = str.lastIndexOf('s'); 
     System.out.println("Last occurrence of char 's' is" + 
                        " found at : " + lastIndex); 
