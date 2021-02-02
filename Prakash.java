@@ -29,6 +29,8 @@ class Prakash
     int char_at = str.charAt(20); 
     System.out.println("Character at location 20: " + 
                                              char_at); 
+ffkeffjefbwejkfbjkwef
+ewfbsadjfbfjfbkjwff
   
     // throws StringIndexOutOfBoundsException 
     // char_at = str.charAt(50); 
